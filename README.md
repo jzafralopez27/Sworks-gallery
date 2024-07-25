@@ -1,0 +1,1 @@
+First Kotlin project ever, I'll be studying Kotlin next year on school so I wanted to make a little photo/video gallery with my creations. Something small, just to start to get the hang of it. I'll be updating it over the rest of the summer!
